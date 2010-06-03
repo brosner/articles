@@ -1,5 +1,5 @@
 =======================
-Artices by Brian Rosner
+Articles by Brian Rosner
 =======================
 
 I've been trying to find a decent solution to publishing longer pieces which
