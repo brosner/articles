@@ -15,7 +15,7 @@ repos are perfect for the watching/diff'ing aspects.
 The best way forward is that a single commit will act as the initial version
 which can be commented on (even inline comments). Then I can make commits on
 an article which will act as the revisions. Of course people can fork, but
-that might not be much benefit (or perhaps I can will be proven wrong). Pull
+that might not be much benefit (or perhaps I will be proven wrong). Pull
 requests is an interesting idea though.
 
 Let's give this a shot...
